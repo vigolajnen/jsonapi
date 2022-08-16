@@ -1,20 +1,8 @@
 {
-    "cities": [{
-            "id": "1",
-            "name": "Санкт-Петербург",
-            "service_phone": "8126100606",
-            "service_phone_code_size": "3",
-            "code": "SPB",
-            "msktz_bias_min": "0"
-        },
-        {
-            "id": "2",
-            "name": "Нижний Новгород",
-            "service_phone": "8314291661",
-            "service_phone_code_size": "3",
-            "code": "GOJ",
-            "msktz_bias_min": "0"
-
-        }
-    ]
+    "id": "1",
+    "name": "Санкт-Петербург",
+    "service_phone": "8126100606",
+    "service_phone_code_size": "3",
+    "code": "SPB",
+    "msktz_bias_min": "0"
 }
