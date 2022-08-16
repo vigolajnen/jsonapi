@@ -1,0 +1,12 @@
+{
+    "lastname": "Мастер5",
+    "firstname": "Илья5",
+    "middlename": "Тестирование5",
+    "phone": "6661234567",
+    "email": "",
+    "birthday": "1910-10-10",
+    "sex": "F",
+    "meddate": "27.04.2022",
+    "model": "клиент",
+    "activity": true
+}
