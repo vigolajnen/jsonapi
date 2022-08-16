@@ -1,17 +1,61 @@
-{
-    "id": "1",
-    "city_id": "1",
-    "unreal": "false",
-    "address": "ул. Я. Гашека, д. 17А",
-    "map_latitude": "59.83522415161133",
-    "num": "44",
-    "map_longitude": "30.40362548828125",
-    "active": "true",
-    "net": "76",
-    "site_name": "FH Prestige на Гашека",
-    "category": "2",
-    "city_name": "Санкт-Петербург",
-    "type": "10",
-    "msktz_bias_min": "0",
-    "city_code": "SPB"
-}
+[{
+        "id": 44,
+        "name": "FH Prestige на Гашека",
+        "address": "ул. Я. Гашека, д. 17А",
+        "active": true,
+        "latitude": 59.83522415161133,
+        "longitude": 30.40362548828125,
+        "city_id": 1,
+        "type_id": 10
+    },
+    {
+        "id": 112,
+        "name": "FH в Охта Молле",
+        "address": "Брантовская дорога,3",
+        "active": true,
+        "latitude": 59.9401727,
+        "longitude": 30.4171033,
+        "city_id": 1,
+        "type_id": 20
+    },
+    {
+        "id": 67,
+        "name": "FH на Таллинском",
+        "address": "Таллинское ш., 40/а",
+        "active": true,
+        "latitude": 59.79507827758789,
+        "longitude": 30.14508819580078,
+        "city_id": 1,
+        "type_id": 20
+    },
+    {
+        "id": 13,
+        "name": "FH на Чкаловской",
+        "address": "ул. Большая Разночинная, д. 25 А",
+        "active": true,
+        "latitude": 59.96134948730469,
+        "longitude": 30.287067413330078,
+        "city_id": 1,
+        "type_id": 20
+    },
+    {
+        "id": 30,
+        "name": "FH на Энгельса",
+        "address": "пр. Энгельса, д. 27 лит.Д",
+        "active": true,
+        "latitude": 60.00522994995117,
+        "longitude": 30.32799530029297,
+        "city_id": 1,
+        "type_id": 20
+    },
+    {
+        "id": 102,
+        "name": "FH Ульяновск Созидателей",
+        "address": "пр. Созидателей, №116",
+        "active": true,
+        "latitude": 54.359375,
+        "longitude": 48.56449890136719,
+        "city_id": 6,
+        "type_id": 20
+    }
+]

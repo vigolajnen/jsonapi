@@ -1,0 +1,77 @@
+[{
+        "account": 648333,
+        "transactions": [{
+                "id": "1266083783",
+                "type": 1,
+                "sum": "150",
+                "time": "15.07.2020 1:21",
+                "paymentSystem": "DOL",
+                "paymentMarket": ""
+            },
+            {
+                "id": "1266083781",
+                "type": 0,
+                "sum": "50",
+                "time": "15.07.2020 1:21",
+                "paymentSystem": "Терминал",
+                "paymentMarket": ""
+            },
+            {
+                "id": "1266083782",
+                "type": 0,
+                "sum": "50",
+                "time": "15.07.2020 1:21",
+                "paymentSystem": "Терминал",
+                "paymentMarket": ""
+            },
+            {
+                "id": "1266083784",
+                "type": 0,
+                "sum": "50",
+                "time": "15.07.2020 1:21",
+                "paymentSystem": "Терминал",
+                "paymentMarket": ""
+            }
+        ]
+    },
+    {
+        "account": 712470,
+        "transactions": [{
+                "id": "1266083786",
+                "type": 0,
+                "sum": "10900",
+                "time": "15.07.2020 1:21",
+                "paymentSystem": "ПСКБ",
+                "paymentMarket": "FH Market"
+            },
+            {
+                "id": "1266083787",
+                "type": 0,
+                "sum": "10900",
+                "time": "15.07.2020 1:21",
+                "paymentSystem": "ПСКБ",
+                "paymentMarket": "FH Market"
+            },
+            {
+                "id": "1266083788",
+                "type": 1,
+                "sum": "10000",
+                "time": "15.07.2020 1:21",
+                "paymentSystem": "DOL",
+                "paymentMarket": ""
+            },
+            {
+                "id": "1266083789",
+                "type": 0,
+                "sum": "10900",
+                "time": "15.07.2020 1:21",
+                "paymentSystem": "ПСКБ",
+                "paymentMarket": "FH Market"
+            }
+        ]
+    },
+    {
+        "account": 826137,
+        "transactions": []
+    }
+]

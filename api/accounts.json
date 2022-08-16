@@ -1,0 +1,22 @@
+[{
+        "id": 648333,
+        "name": "Солярий",
+        "type": 1,
+        "activity": false,
+        "sum": 50
+    },
+    {
+        "id": 712470,
+        "name": "Основной",
+        "type": 0,
+        "activity": true,
+        "sum": 29301
+    },
+    {
+        "id": 826137,
+        "name": "Премиальные",
+        "type": 4,
+        "activity": true,
+        "sum": 0
+    }
+]
